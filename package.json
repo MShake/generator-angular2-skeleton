@@ -1,6 +1,6 @@
 {
   "name": "generator-angular2-skeleton",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Yeoman generator for Angular2 app",
   "homepage": "https://github.com/MShake/generator-angular2-skeleton",
   "author": {
