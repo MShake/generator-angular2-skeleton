@@ -8,6 +8,11 @@
     "email": "fidalgo.antoine@gmail.com",
     "url": "http://www.afidalgo.fr"
   },
+  "dependencies":{
+    "yeoman-generator":"^0.22.4",
+    "yosay":"^1.1.0",
+    "bower": "^1.5.3"
+  },
   "devDependencies": {
     "eslint-config-xo-space": "^0.7.0",
     "gulp": "^3.9.0",
