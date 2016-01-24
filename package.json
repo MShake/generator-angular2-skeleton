@@ -24,7 +24,9 @@
   ],
   "main": "generators/index.js",
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "Angular2",
+    "gulp"
   ],
   "license": "MIT"
 }
